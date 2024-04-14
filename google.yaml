@@ -1,0 +1,10 @@
+rules:
+ - DOMAIN-KEYWORD,googl
+ - DOMAIN-KEYWORD,goo.gl
+ - DOMAIN-KEYWORD,gstatic
+ - DOMAIN-KEYWORD,ggpht
+ - DOMAIN-KEYWORD,youtu
+ - DOMAIN-KEYWORD,yt.be
+ - DOMAIN-KEYWORD,ytimg
+ - DOMAIN-KEYWORD,gmail
+ 

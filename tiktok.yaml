@@ -1,0 +1,17 @@
+rules:
+ - DOMAIN-KEYWORD,byteoversea
+ - DOMAIN-KEYWORD,byteglb
+ - DOMAIN-KEYWORD,byteimg
+ - DOMAIN-KEYWORD,muscdn
+ - DOMAIN-KEYWORD,musemuse
+ - DOMAIN-KEYWORD,musical.ly
+ - DOMAIN-KEYWORD,pstatp
+ - DOMAIN-KEYWORD,snssdk
+ - DOMAIN-KEYWORD,tiktok
+ - DOMAIN-KEYWORD,ttcdn
+ - DOMAIN-KEYWORD,tlivecdn
+ - DOMAIN-KEYWORD,ttapis
+ - DOMAIN-KEYWORD,ttdns2
+ - DOMAIN-KEYWORD,ttlivecdn
+ - DOMAIN-KEYWORD,ttoversea
+ - DOMAIN-KEYWORD,ttwstatic
