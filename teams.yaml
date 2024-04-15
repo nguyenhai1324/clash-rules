@@ -1,2 +1,4 @@
 rules:
  - DOMAIN-KEYWORD,teams
+ - DOMAIN-KEYWORD,lync.com
+ - DOMAIN-KEYWORD,skypeforbussines
