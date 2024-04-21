@@ -1,13 +1,18 @@
 rules:
  - DOMAIN-KEYWORD,byteoversea
- - DOMAIN-KEYWORD,byteglb
+ - DOMAIN-KEYWORD,bytefcdn
  - DOMAIN-KEYWORD,byteimg
+ - DOMAIN-KEYWORD,cdn77.org
+ - DOMAIN-KEYWORD,ovscdn
+ - DOMAIN-KEYWORD,byteimg
+ - DOMAIN-KEYWORD,pstatp
  - DOMAIN-KEYWORD,pstatp
  - DOMAIN-KEYWORD,snssdk
  - DOMAIN-KEYWORD,ttcdn
  - DOMAIN-KEYWORD,ttapis
- - DOMAIN-KEYWORD,ttdns
  - DOMAIN-KEYWORD,tiktok
  - DOMAIN-KEYWORD,tlivecdn
+ - DOMAIN-KEYWORD,ttdns
  - DOMAIN-KEYWORD,ttoversea
  - DOMAIN-KEYWORD,ttwstatic
+ - DOMAIN-KEYWORD,worldfcdn2
