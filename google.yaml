@@ -3,6 +3,7 @@ rules:
  - DOMAIN-KEYWORD,goo.gl
  - DOMAIN-KEYWORD,gstatic
  - DOMAIN-KEYWORD,ggpht
+ - DOMAIN-KEYWORD,gvt1.com
  - DOMAIN-KEYWORD,youtu
  - DOMAIN-KEYWORD,yt.be
  - DOMAIN-KEYWORD,ytimg
