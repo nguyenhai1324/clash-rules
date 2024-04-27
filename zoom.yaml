@@ -1,6 +1,2 @@
 rules:
- - DOMAIN-KEYWORD,zoom.com
- - DOMAIN-KEYWORD,zoomcrc.com
- - DOMAIN-KEYWORD,zoom.extole.io
- - DOMAIN-KEYWORD,zoomgov.com
  - DOMAIN-KEYWORD,zoom.us
