@@ -1,6 +1,4 @@
 rules:
  - DOMAIN-KEYWORD,facebook
- - DOMAIN-KEYWORD,fbcdn
- - DOMAIN-KEYWORD,fbsbx
- - DOMAIN-KEYWORD,fb.com
+ - DOMAIN-KEYWORD,fb
  
