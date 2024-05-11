@@ -1,5 +1,6 @@
 rules:
  - DOMAIN-KEYWORD,google
+ - DOMAIN-KEYWORD,gvt1.com
  - DOMAIN-KEYWORD,gstatic
  - DOMAIN-KEYWORD,ggpht.com
  - DOMAIN-KEYWORD,youtube
