@@ -1,7 +1,4 @@
 rules:
  - DOMAIN-KEYWORD,google
- - DOMAIN-KEYWORD,gstatic
- - DOMAIN-KEYWORD,ggpht
- - DOMAIN-KEYWORD,gvt1.com
  - DOMAIN-KEYWORD,youtube
- - DOMAIN-KEYWORD,ytimg
+ - DOMAIN-KEYWORD,i.ytimg.com
