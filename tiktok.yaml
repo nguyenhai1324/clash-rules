@@ -1,2 +1,16 @@
 rules:
  - DOMAIN-KEYWORD,tiktok
+ - DOMAIN-KEYWORD,ttoverseaus
+ - DOMAIN-KEYWORD,ttlivecdn
+ - DOMAIN-KEYWORD,bytedance
+ - DOMAIN-KEYWORD,byteoversea
+ - DOMAIN-KEYWORD,bytefcdn
+ - DOMAIN-KEYWORD,bytetcdn
+ - DOMAIN-KEYWORD,ibyteimg
+ - DOMAIN-KEYWORD,ibytedtos
+ - DOMAIN-KEYWORD,bytelb
+ - DOMAIN-KEYWORD,byteglb
+ - DOMAIN-KEYWORD,bytewlb
+ - DOMAIN-KEYWORD,byteeffecttos
+ - DOMAIN-KEYWORD,bytegeo
+ - DOMAIN-KEYWORD,ttwstatic
