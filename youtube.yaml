@@ -1,0 +1,5 @@
+rules:
+ - DOMAIN-KEYWORD,youtube
+ - DOMAIN-KEYWORD,ytimg.com
+ - DOMAIN-KEYWORD,googlevideo.com
+ - DOMAIN-KEYWORD,yt3.ggpht.com
