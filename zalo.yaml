@@ -1,6 +1,5 @@
 rules:
- - DOMAIN-KEYWORD,zalo
- - DOMAIN-KEYWORD,zadn
- - DOMAIN-KEYWORD,zdn
- - DOMAIN-KEYWORD,zapps
+ - DOMAIN-KEYWORD,zalo.me
+ - DOMAIN-KEYWORD,zadn.vn
+ - DOMAIN-KEYWORD,zdn.vn
  
